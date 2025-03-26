@@ -1,5 +1,7 @@
 # 👩🏻‍💻 Felipe20Rich
 
+👋Opa! Sou Felipe, Da/Ds ainda em formação em Barcharel De Ciência de Computação. Estou aprimorando meus conhecimentos em Python (ML Libraries), SQL, Java...
+
 **`Cientista De Dados`**
 
 Meu nome é Felipe Cezar Ramos Firmino. Atualmente, estou cursando Ciência Da Computação na Anhembi Morumbi (UAM). Sou apaixonado por tecnologia e tento sempre 
