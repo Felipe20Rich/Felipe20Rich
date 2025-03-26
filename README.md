@@ -1,5 +1,4 @@
-# ![my-emoji (2)](https://github.com/user-attachments/assets/d559da5a-a11f-4c43-8ebe-021e0d62b86f)
- Felipe20Rich
+# 🃏 Felipe20Rich
 
 **`Cientista De Dados`**
 
