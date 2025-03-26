@@ -1,16 +1,15 @@
 # 👩🏻‍💻 Felipe20Rich
 
-👋Opa! Sou Felipe, Da/Ds ainda em formação em Barcharel De Ciência de Computação. Estou aprimorando meus conhecimentos em Python (ML Libraries), SQL, Java...
-
 **`Cientista De Dados`**
 
-Meu nome é Felipe Cezar Ramos Firmino. Atualmente, estou cursando Ciência Da Computação na Anhembi Morumbi (UAM). Sou apaixonado por tecnologia e tento sempre 
+👋Opa! Sou Felipe, Da/Ds ainda em formação em Barcharel De Ciência de Computação. Estou aprimorando meus conhecimentos em Python (ML Libraries), SQL, Java...
+
 
 <a href="https://github.com/Felipe20Rich?tab=repositories">
     <img 
         alt="Total de estrelas" 
         title="Total de estrelas GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        src="https://custom-icon-badges.demolab.com/github/stars/Felipe20Rich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
     />
 </a>
 <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FFelipe20Rich">
