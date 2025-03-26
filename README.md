@@ -2,7 +2,7 @@
 
 **`Cientista De Dados`**
 
-👋Opa! Sou Felipe, Da/Ds ainda em formação em Barcharel De Ciência de Computação. Estou aprimorando meus conhecimentos em Python (ML Libraries), SQL, Java...
+Sou um cientista de dados em desenvolvimento, dedicando-me a construir uma carreira sólida no universo dos dados, passo a passo. Tenho como objetivo criar projetos de codificação completos, iniciando do zero e abrangendo todas as etapas, desde o planejamento e o design até a implementação de soluções práticas para problemas do mundo real, usando o poder do código.
 
 
 <a href="https://github.com/Felipe20Rich?tab=repositories">
