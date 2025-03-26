@@ -11,7 +11,6 @@
         src="https://custom-icon-badges.demolab.com/github/stars/Felipe20Rich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
     />
 </a>
-</a>
 <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FFelipe20Rich">
     <img 
         alt="Seguidores" 
