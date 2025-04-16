@@ -2,7 +2,7 @@
 
 **`Cientista De Dados`**
 
-Sou um cientista de dados em desenvolvimento, dedicando-me a construir uma carreira sólida no universo dos dados, passo a passo. Tenho como objetivo criar projetos de codificação completos, iniciando do zero e abrangendo todas as etapas, desde o planejamento e o design até a implementação de soluções práticas para problemas do mundo real, usando o poder do código.
+Sou um cientista de dados em ascensão, focado em construir uma carreira sólida na área, explorando análises avançadas, modelagem estatística e aprendizado de máquina para transformar dados em soluções estratégicas. Meu objetivo é desenvolver projetos completos do zero, abrangendo todas as etapas—desde a aquisição e limpeza dos dados até a modelagem, visualização e implementação—sempre buscando resolver desafios reais com inteligência artificial e ciência de dados.
 
 
 <a href="https://github.com/Felipe20Rich?tab=repositories">
