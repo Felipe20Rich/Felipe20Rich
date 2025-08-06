@@ -2,7 +2,7 @@
 
 **`Cientista De Dados`**
 
-Sou um cientista de dados em ascensão, focado em construir uma carreira sólida na área, explorando análises avançadas, modelagem estatística e aprendizado de máquina para transformar dados em soluções estratégicas. Meu objetivo é desenvolver projetos completos do zero, abrangendo todas as etapas — desde a aquisição e limpeza dos dados até a modelagem, visualização e implementação — sempre buscando resolver desafios reais com inteligência artificial e ciência de dados.
+Sou um cientista de dados em ascensão, focado em construir uma carreira sólida na área, explorando análises avançadas, modelagem estatística e aprendizado de máquina para transformar dados em soluções estratégicas. Meu objetivo é desenvolver projetos completos do zero, abrangendo todas as etapas, desde a aquisição e limpeza dos dados até a modelagem, visualização e implementação, sempre buscando resolver desafios reais com inteligência artificial e ciência de dados.
 
 
 <a href="https://github.com/Felipe20Rich?tab=repositories">
