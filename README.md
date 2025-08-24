@@ -27,7 +27,7 @@ Sou um cientista de dados em ascensão, focado em construir uma carreira sólida
 <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right:10px;" src="https://orageek.com/wp-content/uploads/2019/01/sql-png-5-283x300.png"/>
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" />
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://camo.githubusercontent.com/aef1e8177da912f4389c9892921107eb8b7c83cca94c1a8a7db5f3f68d017bea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2e737667" />
+<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br/> 
 
