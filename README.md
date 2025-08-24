@@ -26,7 +26,7 @@ Sou um cientista de dados em ascensão, focado em construir uma carreira sólida
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right:10px;" src="https://orageek.com/wp-content/uploads/2019/01/sql-png-5-283x300.png"/>
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px; opacity:1;" src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" onmouseover="this.style.opacity='0.5'" onmouseout="this.style.opacity='1'" />
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br/> 
 
